@@ -1,0 +1,16 @@
+altgraph==0.17.4
+distlib==0.3.9
+filelock==3.17.0
+macholib==1.16.3
+modulegraph==0.19.6
+packaging==24.2
+pefile==2023.2.7
+pillow==11.1.0
+platformdirs==4.3.6
+py2app==0.28.8
+pyinstaller==6.12.0
+pyinstaller-hooks-contrib==2025.1
+pywin32-ctypes==0.2.3
+setuptools==75.8.0
+virtualenv==20.29.2
+watchdog==6.0.0
