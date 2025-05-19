@@ -105,7 +105,3 @@ You can create a standalone executable so you don't need to run the script via `
 * The script waits for 2 seconds after detecting a new file before processing. This is to help ensure the file is fully written to disk before attempting conversion.
 * The WebP conversion is lossless, preserving image quality.
 * **Original files are deleted!** Ensure this is the behavior you want. You might want to back up important images before testing extensively or modify the script to move originals to a backup folder instead of deleting.
-
----
-
-Feel free to adjust any part of this README to better fit your project's specifics or the new branch's purpose.
